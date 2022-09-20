@@ -1,0 +1,5 @@
+Result when key present in dict: 
+bool(true)
+
+Result when key NOT present in dict: 
+bool(false)
